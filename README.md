@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-- 📫 Reach me via [email](arashrasoulzadeh@gmail.com)
+- 📫 Reach me via [email](mailto:arashrasoulzadeh@gmail.com)
 
 following stats are only for public repositories.
 
