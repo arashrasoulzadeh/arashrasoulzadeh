@@ -9,3 +9,4 @@ following stats are only for public repositories.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arashrasoulzadeh"/>
 
+[![Go Interview Practice Achievement](https://raw.githubusercontent.com/RezaSi/go-interview-practice/main/badges/arashrasoulzadeh.svg)](https://github.com/RezaSi/go-interview-practice)
