@@ -12,16 +12,16 @@ following stats are only for public repositories.
 
 | Repository | ⭐ Stars | 📝 Commits | 🕐 Last Push | 📦 Size | Description |
 |------------|:-------:|:----------:|:------------:|:-------:|-------------|
-| [🥇 **appgent**](https://github.com/arashrasoulzadeh/appgent) | 1 | 86 | 2026-09-28 | 30 MB | — |
+| [🥇 **GoStreestTest**](https://github.com/arashrasoulzadeh/GoStreestTest) | 13 | 35 | 2019-05-06 | 22 KB | API stress test written in Go |
 | [🥈 **depsy**](https://github.com/arashrasoulzadeh/depsy) | 11 | 56 | 2021-08-29 | 18 MB | Deployment made easy |
-| [🥉 **GoStreestTest**](https://github.com/arashrasoulzadeh/GoStreestTest) | 13 | 35 | 2019-05-06 | 22 KB | API stress test written in Go |
-| [🔧 **agentic-game-engine**](https://github.com/arashrasoulzadeh/agentic-game-engine) | 0 | 100 | 2026-10-01 | 1.4 MB | — |
-| [🖥️ **tiny_device_os**](https://github.com/arashrasoulzadeh/tiny_device_os) | 0 | 46 | 2026-10-01 | 1.1 MB | — |
+| [🥉 **appgent**](https://github.com/arashrasoulzadeh/appgent) | 1 | 86 | 2026-09-28 | 30 MB | — |
+| [🖥️ **tiny_device_os**](https://github.com/arashrasoulzadeh/tiny_device_os) | 0 | 100 | 2026-10-05 | 1.4 MB | A tiny OS for Arduino-ESP devices |
+| [🐦 **openbirddatabase**](https://github.com/arashrasoulzadeh/openbirddatabase) | 0 | 100 | 2026-10-05 | 15 MB | Open Bird Database - Free bird database |
+| [🔧 **agentic-game-engine**](https://github.com/arashrasoulzadeh/agentic-game-engine) | 0 | 100 | 2026-10-03 | 1.6 MB | — |
 | [🧬 **life-sim**](https://github.com/arashrasoulzadeh/life-sim) | 0 | 54 | 2026-09-12 | 1.0 MB | — |
 | [⚙️ **devenv**](https://github.com/arashrasoulzadeh/devenv) | 3 | 31 | 2026-06-04 | 58 KB | Developer env switcher |
-| [🆔 **hoviyat**](https://github.com/arashrasoulzadeh/hoviyat) | 0 | 20 | 2026-10-01 | 5.3 MB | — |
-| [🌐 **jevhub_ir**](https://github.com/arashrasoulzadeh/jevhub_ir) | 0 | 24 | 2026-09-25 | 848 KB | — |
-| [💰 **tokencircles**](https://github.com/arashrasoulzadeh/tokencircles) | 0 | — | 2026-09-08 | 618 KB | AI tokens usage in one glance |
+| [📊 **microdashboard**](https://github.com/arashrasoulzadeh/microdashboard) | 0 | 13 | 2026-10-03 | 8.4 MB | A dashboard for AI devices |
+| [💰 **tokencircles**](https://github.com/arashrasoulzadeh/tokencircles) | 0 | 33 | 2026-09-08 | 618 KB | AI tokens usage in one glance |
 
 ---
 
