@@ -23,7 +23,7 @@
   <img src="https://skillicons.dev/icons?i=go,python,rust,c,dart,flutter,kotlin,ts,js,html,css,arduino,docker,linux,git&theme=dark" alt="Tech stack"/>
 </p>
 
-following stats are only for public repositories (🔒 = private repo, listed by name only).
+following stats are only for public repositories.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arashrasoulzadeh&theme=dark&hide_border=true"/>
 
@@ -41,23 +41,20 @@ following stats are only for public repositories (🔒 = private repo, listed by
 |------|------------|:----------:|:------------:|:-------:|:-------:|-------------|
 | 🥇 | [openbirddatabase](https://github.com/arashrasoulzadeh/openbirddatabase) | 11243 | 2026-10-19 | 0 | 55 MB | Open Bird Database - Free bird database |
 | 🥈 | [agentic-game-engine](https://github.com/arashrasoulzadeh/agentic-game-engine) | 372 | 2026-10-19 | 0 | 3.1 MB | — |
-| 🥉 | 🔒 takhfifyar | 248 | 2026-10-19 | 0 | 35 MB | Private repository |
-| 4 | [tiny_device_os](https://github.com/arashrasoulzadeh/tiny_device_os) | 148 | 2026-10-12 | 0 | 1.8 MB | A tiny OS for Arduino-ESP devices |
-| 5 | [appgent](https://github.com/arashrasoulzadeh/appgent) | 86 | 2026-10-19 | 1 | 29 MB | — |
-| 6 | [wallexbot](https://github.com/arashrasoulzadeh/wallexbot) | 69 | 2026-10-16 | 0 | 867 KB | — |
-| 7 | 🔒 moirai-warehouse | 57 | 2026-10-19 | 0 | 1.6 MB | Private repository |
-| 8 | [jevhub_ir](https://github.com/arashrasoulzadeh/jevhub_ir) | 26 | 2026-10-11 | 0 | 859 KB | — |
+| 🥉 | [tiny_device_os](https://github.com/arashrasoulzadeh/tiny_device_os) | 148 | 2026-10-12 | 0 | 1.8 MB | A tiny OS for Arduino-ESP devices |
+| 4 | [appgent](https://github.com/arashrasoulzadeh/appgent) | 86 | 2026-10-19 | 1 | 29 MB | — |
+| 5 | [wallexbot](https://github.com/arashrasoulzadeh/wallexbot) | 69 | 2026-10-16 | 0 | 867 KB | — |
+| 6 | [jevhub_ir](https://github.com/arashrasoulzadeh/jevhub_ir) | 26 | 2026-10-11 | 0 | 859 KB | — |
+| [hoviyat](https://github.com/arashrasoulzadeh/hoviyat) | 20 | 2026-10-01 | 0 | 5.4 MB | — |
+| [hafez](https://github.com/arashrasoulzadeh/hafez) | 17 | 2026-10-11 | 0 | 6.1 MB | — |
 
 <details>
 <summary>📂 Other & older repositories</summary>
 
 | Repository | 📝 Commits | 🕐 Last Push | ⭐ Stars | Description |
 |------------|:----------:|:------------:|:-------:|-------------|
-| [hoviyat](https://github.com/arashrasoulzadeh/hoviyat) | 20 | 2026-10-01 | 0 | — |
-| [hafez](https://github.com/arashrasoulzadeh/hafez) | 17 | 2026-10-11 | 0 | — |
 | [eink-dashboard](https://github.com/arashrasoulzadeh/eink-dashboard) | 17 | 2026-10-19 | 0 | — |
 | [microdashboard](https://github.com/arashrasoulzadeh/microdashboard) | 16 | 2026-10-06 | 0 | A dashboard for AI devices |
-| 🔒 moirai-landing | 5 | 2026-10-19 | 0 | Private repository |
 | [flashbox](https://github.com/arashrasoulzadeh/flashbox) | 60 | 2021-08-31 | 0 | Just a test! |
 | [depsy](https://github.com/arashrasoulzadeh/depsy) | 56 | 2021-08-29 | 11 | Deployment made easy |
 | [life-sim](https://github.com/arashrasoulzadeh/life-sim) | 54 | 2026-09-12 | 0 | — |
