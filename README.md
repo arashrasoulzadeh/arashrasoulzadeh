@@ -35,7 +35,7 @@ following stats are only for public repositories.
 
 *Last updated: 2026-10-20*
 
-### 🔥 Top 8 Active Repositories
+### 🔥 Top 10 Active Repositories
 
 | Rank | Repository | 📝 Commits | 🕐 Last Push | ⭐ Stars | 📦 Size | Description |
 |------|------------|:----------:|:------------:|:-------:|:-------:|-------------|
@@ -47,14 +47,14 @@ following stats are only for public repositories.
 | 6 | [jevhub_ir](https://github.com/arashrasoulzadeh/jevhub_ir) | 26 | 2026-10-11 | 0 | 859 KB | — |
 | 7 | [hoviyat](https://github.com/arashrasoulzadeh/hoviyat) | 20 | 2026-10-01 | 0 | 5.4 MB | — |
 | 8 | [hafez](https://github.com/arashrasoulzadeh/hafez) | 17 | 2026-10-11 | 0 | 6.1 MB | — |
+| 9 | [eink-dashboard](https://github.com/arashrasoulzadeh/eink-dashboard) | 17 | 2026-10-19 | 0 | 1.3 MB | — |
+| 10 | [microdashboard](https://github.com/arashrasoulzadeh/microdashboard) | 16 | 2026-10-06 | 0 | 8.2 MB | A dashboard for AI devices |
 
 <details>
 <summary>📂 Other & older repositories</summary>
 
 | Repository | 📝 Commits | 🕐 Last Push | ⭐ Stars | Description |
 |------------|:----------:|:------------:|:-------:|-------------|
-| [eink-dashboard](https://github.com/arashrasoulzadeh/eink-dashboard) | 17 | 2026-10-19 | 0 | — |
-| [microdashboard](https://github.com/arashrasoulzadeh/microdashboard) | 16 | 2026-10-06 | 0 | A dashboard for AI devices |
 | [flashbox](https://github.com/arashrasoulzadeh/flashbox) | 60 | 2021-08-31 | 0 | Just a test! |
 | [depsy](https://github.com/arashrasoulzadeh/depsy) | 56 | 2021-08-29 | 11 | Deployment made easy |
 | [life-sim](https://github.com/arashrasoulzadeh/life-sim) | 54 | 2026-09-12 | 0 | — |
