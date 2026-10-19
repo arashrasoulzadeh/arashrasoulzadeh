@@ -29,11 +29,13 @@ following stats are only for public repositories.
 
 ---
 
-### 🏆 Top 10 Repositories
+### 🏆 Top Repositories
 
-*Ranked by priority: 📝 Commits count → 🕐 Recency → ⭐ Stars (each one only breaks ties of the previous)*
+*Ranked by: 📝 Commits count → 🕐 Has a recent commit (last 30 days) → ⭐ Stars*
 
 *Last updated: 2026-10-19*
+
+### 🔥 Top 8 Active Repositories
 
 | Rank | Repository | 📝 Commits | 🕐 Last Push | ⭐ Stars | 📦 Size | Description |
 |------|------------|:----------:|:------------:|:-------:|:-------:|-------------|
@@ -42,23 +44,26 @@ following stats are only for public repositories.
 | 🥉 | [tiny_device_os](https://github.com/arashrasoulzadeh/tiny_device_os) | 148 | 2026-10-12 | 0 | 1.8 MB | A tiny OS for Arduino-ESP devices |
 | 4 | [appgent](https://github.com/arashrasoulzadeh/appgent) | 86 | 2026-10-19 | 1 | 29 MB | — |
 | 5 | [wallexbot](https://github.com/arashrasoulzadeh/wallexbot) | 69 | 2026-10-16 | 0 | 867 KB | — |
-| 6 | [flashbox](https://github.com/arashrasoulzadeh/flashbox) | 60 | 2021-08-31 | 0 | 305 KB | Just a test! |
-| 7 | [depsy](https://github.com/arashrasoulzadeh/depsy) | 56 | 2021-08-29 | 11 | 18 MB | Deployment made easy |
-| 8 | [life-sim](https://github.com/arashrasoulzadeh/life-sim) | 54 | 2026-09-12 | 0 | 1.0 MB | — |
-| 9 | [piped](https://github.com/arashrasoulzadeh/piped) | 36 | 2021-08-10 | 0 | 2.0 MB | Pipe Helper |
-| 10 | [GoStreestTest](https://github.com/arashrasoulzadeh/GoStreestTest) | 35 | 2019-05-06 | 13 | 22 KB | API stress test written in Go |
+| 6 | [jevhub_ir](https://github.com/arashrasoulzadeh/jevhub_ir) | 26 | 2026-10-11 | 0 | 859 KB | — |
+| 7 | [hoviyat](https://github.com/arashrasoulzadeh/hoviyat) | 20 | 2026-10-01 | 0 | 5.4 MB | — |
+| 8 | [hafez](https://github.com/arashrasoulzadeh/hafez) | 17 | 2026-10-11 | 0 | 6.1 MB | — |
 
 <details>
-<summary>📂 Other active repositories</summary>
+<summary>📂 Other & older repositories</summary>
 
 | Repository | 📝 Commits | 🕐 Last Push | ⭐ Stars | Description |
 |------------|:----------:|:------------:|:-------:|-------------|
-| [tokencircles](https://github.com/arashrasoulzadeh/tokencircles) | 33 | 2026-09-08 | 0 | AI tokens usage in one glance |
-| [jevhub_ir](https://github.com/arashrasoulzadeh/jevhub_ir) | 26 | 2026-10-11 | 0 | — |
-| [hoviyat](https://github.com/arashrasoulzadeh/hoviyat) | 20 | 2026-10-01 | 0 | — |
-| [hafez](https://github.com/arashrasoulzadeh/hafez) | 17 | 2026-10-11 | 0 | — |
 | [eink-dashboard](https://github.com/arashrasoulzadeh/eink-dashboard) | 16 | 2026-10-19 | 0 | — |
 | [microdashboard](https://github.com/arashrasoulzadeh/microdashboard) | 16 | 2026-10-06 | 0 | A dashboard for AI devices |
+| [flashbox](https://github.com/arashrasoulzadeh/flashbox) | 60 | 2021-08-31 | 0 | Just a test! |
+| [depsy](https://github.com/arashrasoulzadeh/depsy) | 56 | 2021-08-29 | 11 | Deployment made easy |
+| [life-sim](https://github.com/arashrasoulzadeh/life-sim) | 54 | 2026-09-12 | 0 | — |
+| [piped](https://github.com/arashrasoulzadeh/piped) | 36 | 2021-08-10 | 0 | Pipe Helper |
+| [GoStreestTest](https://github.com/arashrasoulzadeh/GoStreestTest) | 35 | 2019-05-06 | 13 | API stress test written in Go |
+| [tokencircles](https://github.com/arashrasoulzadeh/tokencircles) | 33 | 2026-09-08 | 0 | AI tokens usage in one glance |
+| [kherad](https://github.com/arashrasoulzadeh/kherad) | 32 | 2026-07-21 | 0 | A simple AI agent that supports a handful of tools |
+| [devenv](https://github.com/arashrasoulzadeh/devenv) | 31 | 2026-06-04 | 3 | Developer env switcher |
+| [hops](https://github.com/arashrasoulzadeh/hops) | 28 | 2024-10-09 | 0 | Helper for DevOps |
 
 </details>
 
