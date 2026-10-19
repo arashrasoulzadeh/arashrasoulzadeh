@@ -31,32 +31,34 @@ following stats are only for public repositories.
 
 ### 🏆 Top 10 Repositories
 
-*Ranked by combined score: 📝 Commits ×10 + 🕐 Recency ×5 (max 30 days) + ⭐ Stars ×2*
+*Ranked by priority: 📝 Commits count → 🕐 Recency → ⭐ Stars (each one only breaks ties of the previous)*
 
 *Last updated: 2026-10-19*
 
-| Rank | Repository | ⭐ Stars | 📝 Commits | 🕐 Last Push | 📦 Size | Score | Description |
-|------|------------|:-------:|:----------:|:------------:|:-------:|:-----:|-------------|
-| 🥇 | [openbirddatabase](https://github.com/arashrasoulzadeh/openbirddatabase) | 0 | 11243 | 2026-10-19 | 53 MB | 112580 | Open Bird Database - Free bird database |
-| 🥈 | [agentic-game-engine](https://github.com/arashrasoulzadeh/agentic-game-engine) | 0 | 371 | 2026-10-18 | 3.0 MB | 3855 | — |
-| 🥉 | [tiny_device_os](https://github.com/arashrasoulzadeh/tiny_device_os) | 0 | 148 | 2026-10-12 | 1.8 MB | 1595 | A tiny OS for Arduino-ESP devices |
-| 4 | [appgent](https://github.com/arashrasoulzadeh/appgent) | 1 | 86 | 2026-10-19 | 29 MB | 1012 | — |
-| 5 | [wallexbot](https://github.com/arashrasoulzadeh/wallexbot) | 0 | 69 | 2026-10-16 | 867 KB | 825 | — |
-| 6 | [depsy](https://github.com/arashrasoulzadeh/depsy) | 11 | 56 | 2021-08-29 | 18 MB | 582 | Deployment made easy |
-| 7 | [life-sim](https://github.com/arashrasoulzadeh/life-sim) | 0 | 54 | 2026-09-12 | 1.0 MB | 540 | — |
-| 8 | [GoStreestTest](https://github.com/arashrasoulzadeh/GoStreestTest) | 13 | 35 | 2019-05-06 | 22 KB | 376 | API stress test written in Go |
-| 9 | [jevhub_ir](https://github.com/arashrasoulzadeh/jevhub_ir) | 0 | 26 | 2026-10-11 | 859 KB | 370 | — |
-| 10 | [tokencircles](https://github.com/arashrasoulzadeh/tokencircles) | 0 | 33 | 2026-09-08 | 618 KB | 330 | AI tokens usage in one glance |
+| Rank | Repository | 📝 Commits | 🕐 Last Push | ⭐ Stars | 📦 Size | Description |
+|------|------------|:----------:|:------------:|:-------:|:-------:|-------------|
+| 🥇 | [openbirddatabase](https://github.com/arashrasoulzadeh/openbirddatabase) | 11243 | 2026-10-19 | 0 | 53 MB | Open Bird Database - Free bird database |
+| 🥈 | [agentic-game-engine](https://github.com/arashrasoulzadeh/agentic-game-engine) | 371 | 2026-10-18 | 0 | 3.0 MB | — |
+| 🥉 | [tiny_device_os](https://github.com/arashrasoulzadeh/tiny_device_os) | 148 | 2026-10-12 | 0 | 1.8 MB | A tiny OS for Arduino-ESP devices |
+| 4 | [appgent](https://github.com/arashrasoulzadeh/appgent) | 86 | 2026-10-19 | 1 | 29 MB | — |
+| 5 | [wallexbot](https://github.com/arashrasoulzadeh/wallexbot) | 69 | 2026-10-16 | 0 | 867 KB | — |
+| 6 | [flashbox](https://github.com/arashrasoulzadeh/flashbox) | 60 | 2021-08-31 | 0 | 305 KB | Just a test! |
+| 7 | [depsy](https://github.com/arashrasoulzadeh/depsy) | 56 | 2021-08-29 | 11 | 18 MB | Deployment made easy |
+| 8 | [life-sim](https://github.com/arashrasoulzadeh/life-sim) | 54 | 2026-09-12 | 0 | 1.0 MB | — |
+| 9 | [piped](https://github.com/arashrasoulzadeh/piped) | 36 | 2021-08-10 | 0 | 2.0 MB | Pipe Helper |
+| 10 | [GoStreestTest](https://github.com/arashrasoulzadeh/GoStreestTest) | 35 | 2019-05-06 | 13 | 22 KB | API stress test written in Go |
 
 <details>
 <summary>📂 Other active repositories</summary>
 
-| Repository | ⭐ Stars | 📝 Commits | 🕐 Last Push | Score | Description |
-|------------|:-------:|:----------:|:------------:|:-----:|-------------|
-| [eink-dashboard](https://github.com/arashrasoulzadeh/eink-dashboard) | 0 | 16 | 2026-10-19 | 310 | — |
-| [hafez](https://github.com/arashrasoulzadeh/hafez) | 0 | 17 | 2026-10-11 | 280 | — |
-| [hoviyat](https://github.com/arashrasoulzadeh/hoviyat) | 0 | 20 | 2026-10-01 | 260 | — |
-| [microdashboard](https://github.com/arashrasoulzadeh/microdashboard) | 0 | 16 | 2026-10-06 | 245 | A dashboard for AI devices |
+| Repository | 📝 Commits | 🕐 Last Push | ⭐ Stars | Description |
+|------------|:----------:|:------------:|:-------:|-------------|
+| [tokencircles](https://github.com/arashrasoulzadeh/tokencircles) | 33 | 2026-09-08 | 0 | AI tokens usage in one glance |
+| [jevhub_ir](https://github.com/arashrasoulzadeh/jevhub_ir) | 26 | 2026-10-11 | 0 | — |
+| [hoviyat](https://github.com/arashrasoulzadeh/hoviyat) | 20 | 2026-10-01 | 0 | — |
+| [hafez](https://github.com/arashrasoulzadeh/hafez) | 17 | 2026-10-11 | 0 | — |
+| [eink-dashboard](https://github.com/arashrasoulzadeh/eink-dashboard) | 16 | 2026-10-19 | 0 | — |
+| [microdashboard](https://github.com/arashrasoulzadeh/microdashboard) | 16 | 2026-10-06 | 0 | A dashboard for AI devices |
 
 </details>
 
