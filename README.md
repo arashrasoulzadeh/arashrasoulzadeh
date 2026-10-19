@@ -45,8 +45,8 @@ following stats are only for public repositories.
 | 4 | [appgent](https://github.com/arashrasoulzadeh/appgent) | 86 | 2026-10-19 | 1 | 29 MB | — |
 | 5 | [wallexbot](https://github.com/arashrasoulzadeh/wallexbot) | 69 | 2026-10-16 | 0 | 867 KB | — |
 | 6 | [jevhub_ir](https://github.com/arashrasoulzadeh/jevhub_ir) | 26 | 2026-10-11 | 0 | 859 KB | — |
-| [hoviyat](https://github.com/arashrasoulzadeh/hoviyat) | 20 | 2026-10-01 | 0 | 5.4 MB | — |
-| [hafez](https://github.com/arashrasoulzadeh/hafez) | 17 | 2026-10-11 | 0 | 6.1 MB | — |
+| 7 | [hoviyat](https://github.com/arashrasoulzadeh/hoviyat) | 20 | 2026-10-01 | 0 | 5.4 MB | — |
+| 8 | [hafez](https://github.com/arashrasoulzadeh/hafez) | 17 | 2026-10-11 | 0 | 6.1 MB | — |
 
 <details>
 <summary>📂 Other & older repositories</summary>
