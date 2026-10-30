@@ -38,12 +38,6 @@ following stats are only for public repositories.
 
 ---
 
-### 🏆 Top Repositories
-
-*Ranked by: 📝 Commits count → 🕐 Has a recent commit (last 30 days) → ⭐ Stars*
-
-*Last updated: 2026-10-30*
-
 ### 🔥 Top 5 Active Repositories
 
 | Rank | Repository | 📝 Commits | 🕐 Last Push | ⭐ Stars | 📦 Size | Description |
