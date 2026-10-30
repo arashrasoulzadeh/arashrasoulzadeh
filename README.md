@@ -2,11 +2,11 @@
 <p align="center"><b>Software Engineer</b> · Go · Python · Rust · Dart · C<br/>Building AI tools, games &amp; tiny OSes</p>
 
 <p align="center">
-  <a href="https://www.meetarash.ir"><img src="https://img.shields.io/badge/Website-meetarash.ir-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
-  <a href="mailto:arashrasoulzadeh@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/arashrasoulzadeh?tab=followers"><img src="https://img.shields.io/github/followers/arashrasoulzadeh?style=for-the-badge&logo=github&label=Followers&color=181717" alt="Followers"/></a>
-  <a href="https://github.com/arashrasoulzadeh?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Farashrasoulzadeh&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=238636" alt="Public Repos"/></a>
-  <img src="https://komarev.com/ghpvc/?username=arashrasoulzadeh&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+  <a href="https://www.meetarash.ir"><img src="https://img.shields.io/badge/Website-meetarash.ir-58A6FF?style=flat&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="mailto:arashrasoulzadeh@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/arashrasoulzadeh?tab=followers"><img src="https://img.shields.io/github/followers/arashrasoulzadeh?style=flat&logo=github&label=Followers&color=181717" alt="Followers"/></a>
+  <a href="https://github.com/arashrasoulzadeh?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Farashrasoulzadeh&query=%24.public_repos&label=Public%20Repos&style=flat&logo=github&color=238636" alt="Public Repos"/></a>
+  <img src="https://komarev.com/ghpvc/?username=arashrasoulzadeh&style=flat&color=blueviolet" alt="Profile views"/>
 </p>
 
 <p align="center">
