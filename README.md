@@ -5,20 +5,13 @@
   <a href="https://www.meetarash.ir"><img src="https://img.shields.io/badge/Website-meetarash.ir-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
   <a href="mailto:arashrasoulzadeh@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/arashrasoulzadeh?tab=followers"><img src="https://img.shields.io/github/followers/arashrasoulzadeh?style=for-the-badge&logo=github&label=Followers&color=181717" alt="Followers"/></a>
+  <a href="https://github.com/arashrasoulzadeh?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Farashrasoulzadeh&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=238636" alt="Public Repos"/></a>
   <img src="https://komarev.com/ghpvc/?username=arashrasoulzadeh&style=for-the-badge&color=blueviolet" alt="Profile views"/>
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arashrasoulzadeh&theme=github_dark" alt="Activity Graph" />
 </p>
-
-### Hi there 👋 
-
-- 📫 Reach me via [email](mailto:arashrasoulzadeh@gmail.com)
-- 💼 Software Engineer — 117 public repositories and counting
-- 🔭 Currently working on [openbirddatabase](https://github.com/arashrasoulzadeh/openbirddatabase), [agentic-game-engine](https://github.com/arashrasoulzadeh/agentic-game-engine) and [tiny_device_os](https://github.com/arashrasoulzadeh/tiny_device_os)
-- 🌱 Recently started [eink-dashboard](https://github.com/arashrasoulzadeh/eink-dashboard) and [wallexbot](https://github.com/arashrasoulzadeh/wallexbot)
-- 🌐 Home page: [meetarash.ir](https://www.meetarash.ir)
 
 ### 🛠️ Tech Stack
 
