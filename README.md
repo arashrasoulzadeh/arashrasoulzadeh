@@ -25,7 +25,6 @@
 
 following stats are only for public repositories.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arashrasoulzadeh&theme=dark&hide_border=true"/>
 
 ---
 
@@ -33,21 +32,21 @@ following stats are only for public repositories.
 
 *Ranked by: 📝 Commits count → 🕐 Has a recent commit (last 30 days) → ⭐ Stars*
 
-*Last updated: 2026-10-20*
+*Last updated: 2026-10-30*
 
 ### 🔥 Top 10 Active Repositories
 
 | Rank | Repository | 📝 Commits | 🕐 Last Push | ⭐ Stars | 📦 Size | Description |
 |------|------------|:----------:|:------------:|:-------:|:-------:|-------------|
-| 🥇 | [openbirddatabase](https://github.com/arashrasoulzadeh/openbirddatabase) | 11243 | 2026-10-19 | 0 | 55 MB | Open Bird Database - Free bird database |
-| 🥈 | [agentic-game-engine](https://github.com/arashrasoulzadeh/agentic-game-engine) | 372 | 2026-10-19 | 0 | 3.1 MB | — |
+| 🥇 | [openbirddatabase](https://github.com/arashrasoulzadeh/openbirddatabase) | 11248 | 2026-10-30 | 0 | 71 MB | Open Bird Database - Free bird database |
+| 🥈 | [agentic-game-engine](https://github.com/arashrasoulzadeh/agentic-game-engine) | 574 | 2026-10-30 | 0 | 7.0 MB | Dart/Flutter game engine with platformer, strategy and idle game packages |
 | 🥉 | [tiny_device_os](https://github.com/arashrasoulzadeh/tiny_device_os) | 148 | 2026-10-12 | 0 | 1.8 MB | A tiny OS for Arduino-ESP devices |
-| 4 | [appgent](https://github.com/arashrasoulzadeh/appgent) | 86 | 2026-10-19 | 1 | 29 MB | — |
-| 5 | [wallexbot](https://github.com/arashrasoulzadeh/wallexbot) | 69 | 2026-10-16 | 0 | 867 KB | — |
-| 6 | [jevhub_ir](https://github.com/arashrasoulzadeh/jevhub_ir) | 26 | 2026-10-11 | 0 | 859 KB | — |
-| 7 | [hoviyat](https://github.com/arashrasoulzadeh/hoviyat) | 20 | 2026-10-01 | 0 | 5.4 MB | — |
-| 8 | [hafez](https://github.com/arashrasoulzadeh/hafez) | 17 | 2026-10-11 | 0 | 6.1 MB | — |
-| 9 | [eink-dashboard](https://github.com/arashrasoulzadeh/eink-dashboard) | 17 | 2026-10-19 | 0 | 1.3 MB | — |
+| 4 | [appgent](https://github.com/arashrasoulzadeh/appgent) | 86 | 2026-10-19 | 1 | 29 MB | Describe an app and a multi-agent pipeline (Plan / Design / Code / QA) builds it |
+| 5 | [wallexbot](https://github.com/arashrasoulzadeh/wallexbot) | 69 | 2026-10-16 | 0 | 867 KB | Paper-trading grid bot for the Wallex exchange |
+| 6 | [jevhub_ir](https://github.com/arashrasoulzadeh/jevhub_ir) | 27 | 2026-10-19 | 0 | 970 KB | Persian documentation site for the Jev model |
+| 7 | [eink-dashboard](https://github.com/arashrasoulzadeh/eink-dashboard) | 25 | 2026-10-20 | 0 | 1.6 MB | Calm widget dashboard launcher for Android e-readers |
+| 8 | [hoviyat](https://github.com/arashrasoulzadeh/hoviyat) | 20 | 2026-10-01 | 0 | 5.4 MB | Go backend service |
+| 9 | [hafez](https://github.com/arashrasoulzadeh/hafez) | 17 | 2026-10-11 | 0 | 6.1 MB | 3D Hafez divination (Fal-e Hafez) web app |
 | 10 | [microdashboard](https://github.com/arashrasoulzadeh/microdashboard) | 16 | 2026-10-06 | 0 | 8.2 MB | A dashboard for AI devices |
 
 <details>
@@ -57,7 +56,7 @@ following stats are only for public repositories.
 |------------|:----------:|:------------:|:-------:|-------------|
 | [flashbox](https://github.com/arashrasoulzadeh/flashbox) | 60 | 2021-08-31 | 0 | Just a test! |
 | [depsy](https://github.com/arashrasoulzadeh/depsy) | 56 | 2021-08-29 | 11 | Deployment made easy |
-| [life-sim](https://github.com/arashrasoulzadeh/life-sim) | 54 | 2026-09-12 | 0 | — |
+| [life-sim](https://github.com/arashrasoulzadeh/life-sim) | 54 | 2026-09-12 | 0 | Autonomous life-sim where an AI assistant lives in an apartment |
 | [piped](https://github.com/arashrasoulzadeh/piped) | 36 | 2021-08-10 | 0 | Pipe Helper |
 | [GoStreestTest](https://github.com/arashrasoulzadeh/GoStreestTest) | 35 | 2019-05-06 | 13 | API stress test written in Go |
 | [tokencircles](https://github.com/arashrasoulzadeh/tokencircles) | 33 | 2026-09-08 | 0 | AI tokens usage in one glance |
