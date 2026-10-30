@@ -69,13 +69,15 @@ following stats are only for public repositories.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arashrasoulzadeh&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arashrasoulzadeh&theme=github_dark" alt="Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arashrasoulzadeh&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arashrasoulzadeh&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arashrasoulzadeh&theme=github_dark" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arashrasoulzadeh&theme=github-compact&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arashrasoulzadeh&theme=github_dark" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arashrasoulzadeh&theme=github_dark&utcOffset=3.5" alt="Productive Time" />
 </p>
