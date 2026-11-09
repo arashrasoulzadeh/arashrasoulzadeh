@@ -17,33 +17,31 @@
 
 ### 🔥 Top 5 Active Repositories
 
+Public repos only. Ranked by `Score = (Commits × 10) + (Recency × 5) + (Stars × 2)` (recency capped at 30 days; 30 = pushed today). Data from GitHub on 2026-11-09.
+
 | Rank | Repository | 📝 Commits | 🕐 Last Push | ⭐ Stars | 📦 Size | Description |
 |------|------------|:----------:|:------------:|:-------:|:-------:|-------------|
-| 🥇 | [openbirddatabase](https://github.com/arashrasoulzadeh/openbirddatabase) | 11248 | 2026-10-30 | 0 | 71 MB | Open Bird Database - Free bird database |
-| 🥈 | [agentic-game-engine](https://github.com/arashrasoulzadeh/agentic-game-engine) | 574 | 2026-10-30 | 0 | 7.0 MB | Dart/Flutter game engine with platformer, strategy and idle game packages |
+| 🥇 | [openbirddatabase](https://github.com/arashrasoulzadeh/openbirddatabase) | 11253 | 2026-11-08 | 0 | 74.4 MB | Open Bird Database - free bird database |
+| 🥈 | [zarvan](https://github.com/arashrasoulzadeh/zarvan) | 744 | 2026-11-04 | 1 | 12.7 MB | Agent-native, simulation-first game engine built with Dart |
 | 🥉 | [tiny_device_os](https://github.com/arashrasoulzadeh/tiny_device_os) | 148 | 2026-10-12 | 0 | 1.8 MB | A tiny OS for Arduino-ESP devices |
-| 4 | [appgent](https://github.com/arashrasoulzadeh/appgent) | 86 | 2026-10-19 | 1 | 29 MB | Describe an app and a multi-agent pipeline (Plan / Design / Code / QA) builds it |
-| 5 | [wallexbot](https://github.com/arashrasoulzadeh/wallexbot) | 69 | 2026-10-16 | 0 | 867 KB | Paper-trading grid bot for the Wallex exchange |
+| 4 | [appgent](https://github.com/arashrasoulzadeh/appgent) | 86 | 2026-11-09 | 1 | 29.1 MB | Multi-agent app builder (Plan / Design / Code / QA) |
+| 5 | [eye](https://github.com/arashrasoulzadeh/eye) | 64 | 2026-11-09 | 0 | 7.6 MB | — |
 
 <details>
-<summary>📂 Other & older repositories</summary>
+<summary>📂 Other public repositories</summary>
 
 | Repository | 📝 Commits | 🕐 Last Push | ⭐ Stars | Description |
 |------------|:----------:|:------------:|:-------:|-------------|
-| [jevhub_ir](https://github.com/arashrasoulzadeh/jevhub_ir) | 27 | 2026-10-19 | 0 | Persian documentation site for the Jev model |
-| [eink-dashboard](https://github.com/arashrasoulzadeh/eink-dashboard) | 25 | 2026-10-20 | 0 | Calm widget dashboard launcher for Android e-readers |
-| [hoviyat](https://github.com/arashrasoulzadeh/hoviyat) | 20 | 2026-10-01 | 0 | Go backend service |
-| [hafez](https://github.com/arashrasoulzadeh/hafez) | 17 | 2026-10-11 | 0 | 3D Hafez divination (Fal-e Hafez) web app |
-| [microdashboard](https://github.com/arashrasoulzadeh/microdashboard) | 16 | 2026-10-06 | 0 | A dashboard for AI devices |
+| [wallexbot](https://github.com/arashrasoulzadeh/wallexbot) | 69 | 2026-10-16 | 0 | Paper-trading grid bot for the Wallex exchange |
+| [wepub](https://github.com/arashrasoulzadeh/wepub) | 51 | 2026-11-03 | 0 | — |
+| [jevhub_ir](https://github.com/arashrasoulzadeh/jevhub_ir) | 29 | 2026-11-08 | 1 | — |
 | [flashbox](https://github.com/arashrasoulzadeh/flashbox) | 60 | 2021-08-31 | 0 | Just a test! |
 | [depsy](https://github.com/arashrasoulzadeh/depsy) | 56 | 2021-08-29 | 11 | Deployment made easy |
-| [life-sim](https://github.com/arashrasoulzadeh/life-sim) | 54 | 2026-09-12 | 0 | Autonomous life-sim where an AI assistant lives in an apartment |
-| [piped](https://github.com/arashrasoulzadeh/piped) | 36 | 2021-08-10 | 0 | Pipe Helper |
+| [life-sim](https://github.com/arashrasoulzadeh/life-sim) | 54 | 2026-09-12 | 0 | — |
 | [GoStreestTest](https://github.com/arashrasoulzadeh/GoStreestTest) | 35 | 2019-05-06 | 13 | API stress test written in Go |
+| [devenv](https://github.com/arashrasoulzadeh/devenv) | 31 | 2026-06-04 | 3 | Developer env switcher |
 | [tokencircles](https://github.com/arashrasoulzadeh/tokencircles) | 33 | 2026-09-08 | 0 | AI tokens usage in one glance |
 | [kherad](https://github.com/arashrasoulzadeh/kherad) | 32 | 2026-07-21 | 0 | A simple AI agent that supports a handful of tools |
-| [devenv](https://github.com/arashrasoulzadeh/devenv) | 31 | 2026-06-04 | 3 | Developer env switcher |
-| [hops](https://github.com/arashrasoulzadeh/hops) | 28 | 2024-10-09 | 0 | Helper for DevOps |
 
 </details>
 
