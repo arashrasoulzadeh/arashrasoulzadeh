@@ -17,15 +17,15 @@
 
 ### 🔥 Top 5 Active Repositories
 
-Public repos only. Ranked by `Score = (Commits × 10) + (Recency × 5) + (Stars × 2)` (recency capped at 30 days; 30 = pushed today). Data from GitHub on 2026-11-09.
+Public repos only. Ranked by `Score = (Commits × 10) + (Recency × 5) + (Stars × 2)` (recency capped at 30 days; 30 = pushed today). Data from GitHub on 2026-11-12.
 
 | Rank | Repository | 📝 Commits | 🕐 Last Push | ⭐ Stars | 📦 Size | Description |
 |------|------------|:----------:|:------------:|:-------:|:-------:|-------------|
 | 🥇 | [openbirddatabase](https://github.com/arashrasoulzadeh/openbirddatabase) | 11253 | 2026-11-08 | 0 | 74.4 MB | Open Bird Database - free bird database |
-| 🥈 | [zarvan](https://github.com/arashrasoulzadeh/zarvan) | 744 | 2026-11-04 | 1 | 12.7 MB | Agent-native, simulation-first game engine built with Dart |
-| 🥉 | [tiny_device_os](https://github.com/arashrasoulzadeh/tiny_device_os) | 148 | 2026-10-12 | 0 | 1.8 MB | A tiny OS for Arduino-ESP devices |
+| 🥈 | [zarvan](https://github.com/arashrasoulzadeh/zarvan) | 822 | 2026-11-11 | 1 | 19.4 MB | Agent-native, simulation-first game engine built with Dart |
+| 🥉 | [eye](https://github.com/arashrasoulzadeh/eye) | 351 | 2026-11-11 | 0 | 8.2 MB | Multi-tenant analytics ingestion/query system with real-time dashboards |
 | 4 | [appgent](https://github.com/arashrasoulzadeh/appgent) | 86 | 2026-11-09 | 1 | 29.1 MB | Multi-agent app builder (Plan / Design / Code / QA) |
-| 5 | [eye](https://github.com/arashrasoulzadeh/eye) | 64 | 2026-11-09 | 0 | 7.6 MB | — |
+| 5 | [jevhub_ir](https://github.com/arashrasoulzadeh/jevhub_ir) | 29 | 2026-11-08 | 1 | 1.0 MB | — |
 
 <details>
 <summary>📂 Other public repositories</summary>
