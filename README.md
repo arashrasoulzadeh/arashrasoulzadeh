@@ -22,9 +22,9 @@ Public repos only. Ranked by `Score = (Commits × 10) + (Recency × 5) + (Stars 
 | Rank | Repository | 📝 Commits | 🕐 Last Push | ⭐ Stars | 📦 Size | Description |
 |------|------------|:----------:|:------------:|:-------:|:-------:|-------------|
 | 🥇 | [openbirddatabase](https://github.com/arashrasoulzadeh/openbirddatabase) | 11255 | 2026-11-12 | 0 | 74.4 MB | Open Bird Database - free bird database |
-| 🥈 | [brain](https://github.com/arashrasoulzadeh/brain) | 1033 | 2026-11-13 | 0 | 1.5 MB | Go-based multi-tenant backend-as-a-service for apps, websites, and games |
-| 🥉 | [zarvan](https://github.com/arashrasoulzadeh/zarvan) | 840 | 2026-11-12 | 1 | 19.4 MB | Agent-native, simulation-first game engine built with Dart |
-| 4 | [eye](https://github.com/arashrasoulzadeh/eye) | 515 | 2026-11-13 | 0 | 8.6 MB | Multi-tenant analytics ingestion/query system with real-time dashboards |
+| 🥈 | [brain](https://github.com/arashrasoulzadeh/brain) | 1147 | 2026-11-13 | 0 | 1.8 MB | Go-based multi-tenant backend-as-a-service for apps, websites, and games |
+| 🥉 | [eye](https://github.com/arashrasoulzadeh/eye) | 560 | 2026-11-13 | 2 | 8.9 MB | Multi-tenant analytics ingestion/query system with real-time dashboards |
+| 4 | [zarvan](https://github.com/arashrasoulzadeh/zarvan) | 840 | 2026-11-12 | 2 | 19.4 MB | Agent-native, simulation-first game engine built with Dart |
 | 5 | [appgent](https://github.com/arashrasoulzadeh/appgent) | 86 | 2026-11-09 | 1 | 29.1 MB | Multi-agent app builder (Plan / Design / Code / QA) |
 
 <details>
